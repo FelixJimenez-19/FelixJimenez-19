@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Hola,%20soy%20[Tu%20Nombre]&fontSize=70&animation=fadeIn" width="100%" />
+  <img src="./todo.jpg" width="100%" />
 
   <h3>🚀 Fullstack Developer | Laravel & React Enthusiast</h3>
   
