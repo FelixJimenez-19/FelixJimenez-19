@@ -1,6 +1,6 @@
 <div style="max-width: 920px; margin: 0 auto; padding: 28px 18px; font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; color: #0f172a; line-height: 1.6;">
   <div style="text-align: center; content-align: center;">
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Animated coding" style="width: 180px; max-width: 100%; border-radius: 12px; margin: 0 auto 10px; display: block;" />
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Animated coding" style="width: 240px; max-width: 100%; border-radius: 12px; margin: 0 auto 10px; display: block;" />
     <h2 style="margin: 18px 0 6px; font-weight: 700; letter-spacing: -0.4px;">🚀 Fullstack Developer</h2>
     <p style="margin: 0; color: #475569;">Laravel • React • Inertia.js • TypeScript</p>
   </div>
