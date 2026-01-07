@@ -47,18 +47,4 @@
     </div>
   </div>
 
-  <div style="text-align: center; margin-top: 26px;">
-    <h3 style="margin-bottom: 12px;">📊 Estadísticas de GitHub</h3>
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=FelixJimenez-19&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelixJimenez-19&layout=compact&theme=tokyonight" alt="Top Languages" />
-  </div>
-
-  <div style="text-align: center; margin-top: 20px; display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-    <a href="mailto:tu-correo@ejemplo.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://linkedin.com/in/tu-usuario">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </div>
 </div>
