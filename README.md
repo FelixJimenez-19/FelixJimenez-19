@@ -1,6 +1,7 @@
 <div style="max-width: 920px; margin: 0 auto; padding: 28px 18px; font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; color: #0f172a; line-height: 1.6;">
   <div style="text-align: center;">
     <img src="./todo.jpg" alt="Foto de perfil" style="width: 260px; max-width: 70%; border-radius: 18px; box-shadow: 0 14px 40px rgba(15, 23, 42, 0.16); object-fit: cover;">
+    <img src="./todo2.jpg" alt="Foto de perfil" style="width: 260px; max-width: 70%; border-radius: 18px; box-shadow: 0 14px 40px rgba(15, 23, 42, 0.16); object-fit: cover;"> 
     <h2 style="margin: 18px 0 6px; font-weight: 700; letter-spacing: -0.4px;">🚀 Fullstack Developer</h2>
     <p style="margin: 0; color: #475569;">Laravel • React • Inertia.js • TypeScript</p>
   </div>
